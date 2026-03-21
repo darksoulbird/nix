@@ -2,7 +2,7 @@
 
 {
   imports = [
-    /etc/hardware-configuration.nix
+    ./hardware-configuration.nix
     ./locale.nix
     ./packages.nix
   ];
