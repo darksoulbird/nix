@@ -9,7 +9,7 @@
   boot.loader.systemd-boot.enable = true;
   boot.loader.efi.canTouchEfiVariables = true;
 
-  networking.hostName = "main"; # Define your hostname.
+  networking.hostName = "node"; # Define your hostname.
 
 
   networking.networkmanager.enable = true;
